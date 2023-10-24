@@ -92,7 +92,7 @@ fun TrocarImagens(){
             elevation = ButtonDefaults.buttonElevation(4.dp)
 
         ) {
-        Text(text = "Anterior")
+        Text(text = "anterior")
         }
         Button(
             onClick = {
@@ -104,7 +104,7 @@ fun TrocarImagens(){
              }
 
         ) {
-            Text(text = "Próximo")
+            Text(text = "próximo")
         }
 
 
